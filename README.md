@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prahart30
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning R programming and Tableau
+- 🌱 I’m currently learning R programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me prahartboppana@gmail.com
 
